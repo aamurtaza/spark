@@ -1,0 +1,6 @@
+Learn and Practice
+map()
+mapValues()
+reduceByKey()
+Flipping RDD
+sortByKey()
