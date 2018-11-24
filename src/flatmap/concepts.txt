@@ -1,0 +1,7 @@
+Learn and Practice
+map vs flatmap
+map()
+flatMap()
+reduceByKey()
+Flipping RDD
+sortByKey()
