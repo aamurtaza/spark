@@ -1,0 +1,8 @@
+Learn and Practice
+loadMovieNames
+spark broadcast variables
+map()
+mapValues()
+reduceByKey()
+Flipping RDD
+sortByKey()
