@@ -1,0 +1,9 @@
+Learn and Practice
+find degree of separation in super heroes
+preprocessing data dynamically in spark
+BFS as map-reduce job in spark
+accumulator variables
+map
+flapmap
+reduceByKey()
+Flipping RDD
